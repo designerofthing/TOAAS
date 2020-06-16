@@ -1,0 +1,23 @@
+{
+  "name": "toaas",
+  "version": "1.0.0",
+  "description": "Thomas Ochman as a Service API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designerofthing/TOAAS.git"
+  },
+  "keywords": [
+    "Craft",
+    "Academy"
+  ],
+  "author": "Steve Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designerofthing/TOAAS/issues"
+  },
+  "homepage": "https://github.com/designerofthing/TOAAS#readme"
+}
