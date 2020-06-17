@@ -8,5 +8,9 @@
   { "id": 7, "quote": "Where's the ping? There should be a ping!"}, 
   { "id": 8, "quote": "fuck!"},
   { "id": 9, "quote": "hmmm, now we'll do some small talkin"}, 
-  { "id": 10, "quote": "I'm a Trekkie!"}
+  { "id": 10, "quote": "I'm a Trekkie!"},
+  { "id": 11, "quote": "That's why we pair program"}, 
+  { "id": 12, "quote": "Work Agile!"},
+  { "id": 13, "quote": "Grab the low hanging fruit!"}, 
+  { "id": 14, "quote": "I'm a Trekkie!"}
 ]
