@@ -1,7 +1,7 @@
 ## Thomas Ochman As A Service
 ![Thomas](https://emoji.slack-edge.com/T093KA4DP/thomas_1/f7b9e75b0f8c873a.png)
 
-**Like gold dust, these inspirational quotes are the low hanging fruit**
+**Like ripe peaches, these inspirational quotes are the low hanging fruit**
 
 Finally an api that serves up random quotes of Thomas Ochman, to be consumed and utilised as you wish.
 
@@ -18,6 +18,13 @@ GET ENDPOINT
 ```
 https://toaas.herokuapp.com/quotes
 ```
+
+### Implementation
+
+If you like this then why not have an inspirational quote in your cli? 
+
+Get at it here:
+https://github.com/designerofthing/toaas-cli.git
 
 License
 --------------
