@@ -3,13 +3,15 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
+    "start": "nodemon ./bin/www",
     "test": "mocha --recursive --exit tests"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
     "cookie-parser": "~1.4.4",
-    "express": "~4.16.1",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "nodemon": "^2.0.4",
     "pg": "^8.2.1",
     "pgtools": "^0.3.0",
     "sequelize": "^5.21.13"

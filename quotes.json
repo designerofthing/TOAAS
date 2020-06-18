@@ -1,16 +1,21 @@
 [
-  { "id": 1, "quote": "Grab the low hanging fruit!"}, 
+  { "id": 1, "quote": "Pick the low hanging fruit!"}, 
   { "id": 2, "quote": "Amen Brother!"},
-  { "id": 3, "quote": "Let's start this baby!"}, 
+  { "id": 3, "quote": "Let's start this baby up!"}, 
   { "id": 4, "quote": "Let's get after it!"},
   { "id": 5, "quote": "That's the way the cookie crumbles!"}, 
   { "id": 6, "quote": "Good stuff....Good stuff!"},
   { "id": 7, "quote": "Where's the ping? There should be a ping!"}, 
-  { "id": 8, "quote": "fuck!"},
+  { "id": 8, "quote": "fuck....fuck....fuck!"},
   { "id": 9, "quote": "hmmm, now we'll do some small talkin"}, 
   { "id": 10, "quote": "I'm a Trekkie!"},
   { "id": 11, "quote": "That's why we pair program"}, 
   { "id": 12, "quote": "Work Agile!"},
   { "id": 13, "quote": "Grab the low hanging fruit!"}, 
-  { "id": 14, "quote": "I'm a Trekkie!"}
+  { "id": 14, "quote": "I'm a Trekkie!"},
+  { "id": 15, "quote": "Yeah, I know, I know, I know!"},
+  { "id": 16, "quote": "Its a tricky one….!"},
+  { "id": 17, "quote": "You understand, you understand?!"},
+  { "id": 18, "quote": "Trust the process!"},
+  { "id": 19, "quote": "In my opinion...."}
 ]
