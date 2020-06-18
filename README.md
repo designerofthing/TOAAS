@@ -1,5 +1,5 @@
 ## Thomas Ochman As A Service
-[Thomas](https://emoji.slack-edge.com/T093KA4DP/thomas_1/f7b9e75b0f8c873a.png)
+![Thomas](https://emoji.slack-edge.com/T093KA4DP/thomas_1/f7b9e75b0f8c873a.png)
 
 **Like gold dust, these inspirational quotes are the low hanging fruit**
 
