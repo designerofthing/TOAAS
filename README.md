@@ -5,6 +5,8 @@
 
 Finally an api that serves up random quotes of Thomas Ochman, to be consumed and utilised as you wish.
 
+Created using the ExpressJS framework for NodeJS.
+
 ### Deployed
 ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
 
